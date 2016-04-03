@@ -1,4 +1,4 @@
-Responsive coming soon html web template.
+Responsive coming soon landing page.
 
 ## Creator
 
